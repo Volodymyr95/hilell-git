@@ -11,3 +11,5 @@ public class Main {
 //git add .
 //git commit -m " message "
 //git pull
+//git branch - створити branch
+//git checkout - перейти на гілку
